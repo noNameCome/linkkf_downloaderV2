@@ -1,6 +1,6 @@
 # 🎬 LinkKF 비디오 다운로더
 
-kr.linkkf.net 사이트에서 비디오를 다운로드하는 GUI 다운로더입니다.
+kr.linkkf.live 사이트에서 비디오를 다운로드하는 GUI 다운로더입니다.
 
 ## 🚀 사용법
 
@@ -14,13 +14,13 @@ kr.linkkf.net 사이트에서 비디오를 다운로드하는 GUI 다운로더�
 
 ## 📝 지원하는 URL 형식
 ```
-https://kr.linkkf.net/player/v[번호]-sub-[번호]/
+https://kr.linkkf.live/player/v[번호]-sub-[번호]/
 ```
 
 **예시:**
 ```
-https://kr.linkkf.net/player/v401148-sub-1/
-https://kr.linkkf.net/player/v401148-sub-2/
+https://kr.linkkf.live/player/v401148-sub-1/
+https://kr.linkkf.live/player/v401148-sub-2/
 ```
 
 ## 📋 필요한 프로그램
@@ -40,3 +40,4 @@ https://kr.linkkf.net/player/v401148-sub-2/
 1. **Python 없음**: https://www.python.org/downloads/ 파이썬 설치
 2. **FFmpeg 없음**: https://ffmpeg.org 에서 다운로드
 3. **다운로드 실패**: URL 형식 확인
+
